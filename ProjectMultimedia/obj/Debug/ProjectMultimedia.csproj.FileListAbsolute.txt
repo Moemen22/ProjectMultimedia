@@ -1,0 +1,20 @@
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\bin\Debug\ProjectMultimedia.exe.config
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\bin\Debug\ProjectMultimedia.exe
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\bin\Debug\ProjectMultimedia.pdb
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.csprojAssemblyReference.cache
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.Form1.resources
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.Properties.Resources.resources
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.csproj.GenerateResource.cache
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.csproj.CoreCompileInputs.cache
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.exe
+C:\Users\Mo2men\source\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.pdb
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\bin\Debug\ProjectMultimedia.exe.config
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\bin\Debug\ProjectMultimedia.exe
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\bin\Debug\ProjectMultimedia.pdb
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.csproj.AssemblyReference.cache
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.Form1.resources
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.Properties.Resources.resources
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.csproj.GenerateResource.cache
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.csproj.CoreCompileInputs.cache
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.exe
+D:\projectvisual old\repos\ProjectMultimedia\ProjectMultimedia\obj\Debug\ProjectMultimedia.pdb
